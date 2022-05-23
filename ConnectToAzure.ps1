@@ -1,4 +1,4 @@
-Import-Module 'C:\Program Files\WindowsPowerShell\Modules\Az.Accounts\2.2.5\Az.Accounts.psm1'
+Import-Module Az.Accounts
 
 $appId = "abc123"
 $tenantId = "00000-00000-0000"
